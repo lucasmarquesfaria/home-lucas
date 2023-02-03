@@ -1,2 +1,7 @@
-# home-lucas
+DESENV. FRONT-END SITE PESSOAL.
+
 HOME PAGE PESSOAL PARA DESENVOLVER OS CONHECIMENTOS ADQUIRIDOS BÁSICOS
+
+NESSE PROJETO QUE ESTA EM ANDAMENTO ESTOU DESENVOLVENDO UM SITE PESSOAL PARA QUE POSSO ME TESTAR E REVER ALGUNS CONCEITOS.
+
+________________________________________________________________________________________________________________________
